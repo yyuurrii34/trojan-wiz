@@ -23,7 +23,7 @@
 - 套餐3：http://bit.ly/2YGvSNz
 ---
 # 安装命令：
-> wget -N --no-check-certificate https://raw.githubusercontent.com/mark-hans/trojan-wiz/master/ins.sh && chmod +x ins.sh && sudo bash  ins.sh
+> wget -N --no-check-certificate https://raw.githubusercontent.com/yyuurrii34/trojan-wiz/master/ins.sh~ && chmod +x ins.sh && sudo bash  ins.sh
 ---
 支持的系统：
 - ubuntu 16.04+
