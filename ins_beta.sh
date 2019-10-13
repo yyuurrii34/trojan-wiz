@@ -316,7 +316,7 @@ function installation_domain(){
   ac_cert_domain $1 $2  
 }
 
-#主界面
+#主界面好麻烦
 function ui(){
 while [ 1 ]
 	do
